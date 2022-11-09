@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "tutorial_refresh",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

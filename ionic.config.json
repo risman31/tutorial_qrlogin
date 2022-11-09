@@ -1,0 +1,7 @@
+{
+  "name": "tutorial_refresh",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
